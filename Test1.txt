@@ -1,0 +1,2 @@
+Testing git diff
+new change testeting the git commit --amend

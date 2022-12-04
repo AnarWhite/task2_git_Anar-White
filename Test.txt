@@ -1,2 +1,0 @@
-Testing git diff
-new change testeting the git add and git commit at once
